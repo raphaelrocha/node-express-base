@@ -1,0 +1,42 @@
+# OSX #
+.DS_Store
+
+# Node.js #
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Vscode #
+.vscode/.react/
+
+# Tests #
+/reports
+/coverage
+junit.xml
+
+# sonar #
+.sonar_lock
+report-task.txt
+
+# build #
+lib/
+
+# Eslint #
+.eslintcache
+
+# Intelij IDE #
+.idea/
+
+# Madge report
+circular-dependencies.svg
+
+# Storybook
+public
+
+# Firebase #
+.firebase
+
+# Yalc #
+.yalc
+yalc.lock
